@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Prenom" />
+    <string name="Némuro" />
+    <string name="Send" />
+    <string name="nom">Nom</string>
+    <string name="invalid_nom">Entrer un nom valide</string>
+    <string name="invalid_prenom">Entrer un prenom valide</string>
+    <string name="invalid_num">Entrer un numero de telephone valide</string>
+    <string name="invalid_email">Entrer un email valide</string>
+    <string name="invalid_age">vous n’êtes pas autorisé pour participé à cet évenement</string>
+</resources>
